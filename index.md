@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Advanced Pilot Training Aircraft System](/sample_page)
+<img src="images/apt.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analysis of Blended-Wing Body Aircraft](/pdf/sample_presentation.pdf)
+<img src="images/bwb.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
