@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Engineering Projects
 
 [Advanced Pilot Training Aircraft System](/apt)
 <img src="images/apt.png?raw=true"/>
