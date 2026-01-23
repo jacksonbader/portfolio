@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Advanced Pilot Training Aircraft System](/sample_page)
+[Advanced Pilot Training Aircraft System](/apt)
 <img src="images/apt.png?raw=true"/>
 
 ---
