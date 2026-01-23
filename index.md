@@ -8,7 +8,7 @@
 <img src="images/apt.png?raw=true"/>
 
 ---
-[Analysis of Blended-Wing Body Aircraft](/pdf/sample_presentation.pdf)
+[Analysis of Blended-Wing Body Aircraft](/bwb)
 <img src="images/bwb.png?raw=true"/>
 
 ---
