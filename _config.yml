@@ -1,5 +1,5 @@
 title: Jackson Bader # your name (or website title) here
-logo: "/images/headshot.jpg?raw=true" height="auto" width="200" style="border-radius:50%" # your photo (or logo) here<img src="YOUR_IMAGE_URL" height="auto" width="200" style="border-radius:50%">
+logo: "/images/headshot-modified.jpg?raw=true" # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am an aerospace engineering graduate from San Diego State University with experience in CAD modeling, 
@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/jackson-bader">View my LinkedIn profile</a> 
+  mailto:jacksonjb921@gmail.com
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
