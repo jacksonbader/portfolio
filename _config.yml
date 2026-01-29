@@ -9,7 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/jackson-bader">View my LinkedIn profile</a> 
-  mailto:jacksonjb921@gmail.com
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
