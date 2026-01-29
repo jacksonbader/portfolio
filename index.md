@@ -10,3 +10,4 @@
 ---
 [Analysis of Blended-Wing Body Aircraft](/bwb)
 <img src="images/bwb.png?raw=true"/>
+ 
